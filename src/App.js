@@ -1,6 +1,6 @@
 import './App.css';
 //Anindya Maitra
-//Sohini Sarkar
+
 //Arundhuti Sur
 function App() {
   return (
@@ -29,3 +29,5 @@ function App() {
 }
 //Dipnita
 export default App;
+
+//Sohini
